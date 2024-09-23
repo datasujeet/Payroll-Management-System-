@@ -1,8 +1,10 @@
-# Payroll Management System - SQL Server Project
+# Payroll Management System 
+
+📋 Project Overview
 
 This project is a **Payroll Management System** built using SQL Server. It covers the key components of a payroll system, including employee management, salary details, attendance records, payroll processing, tax and deductions, and payment records.
 
-## Project Components
+🛠️ Database Schema
 
 ### 1. Employee Information
 Stores basic employee details such as name, contact information, and job title.
